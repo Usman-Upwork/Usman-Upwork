@@ -28,7 +28,7 @@ I build **production-grade systems**, not toy projects. My focus is on **scalabl
 
 ## 🎓 Education
 
-* **University of Texas at Austin** — Graduate
+* **University of Texas at Austin** — Graduate 
 
 ---
 
@@ -64,14 +64,14 @@ I build **production-grade systems**, not toy projects. My focus is on **scalabl
 ### AI & Automation
 
 * LLM-based automation (OpenAI, orchestration, tool calling)
-* Workflow engines & schedulers
+* Workflow engines & schedulers (N8N & Zapier)
 * Backend systems for AI products
 * Data pipelines and inference services
 
 ### Observability & Reliability
 
 * Metrics, logs, tracing
-* Datadog, Prometheus, Grafana
+* Datadog, Prometheus, Grafana, Mimir, Loki
 * Load testing, profiling, failure analysis
 
 ---
