@@ -93,3 +93,4 @@ If you're building something serious — infrastructure, backend systems, or AI�
 
 > *I optimize for correctness, scale, and long‑term sanity — not buzzwords.*
 
+<!-- Last update: 2025-12-17 -->
