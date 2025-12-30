@@ -2,7 +2,8 @@
 <h3 align="center">| Full Stack, AI-Powered SaaS Solutions for Businesses</h3>
 
 <p align="center">
-  <a href="https://www.upwork.com/freelancers/~01547b9537b84bf3dd?viewMode=1"><img src="https://img.shields.io/badge/🌐 Visit-My-Upwork-2b9348?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+  <a href="https://www.upwork.com/freelancers/~01547b9537b84bf3dd?viewMode=1">
+  <img src="https://img.shields.io/badge/Visit-Upwork_Profile-2b9348?style=for-the-badge&logo=upwork&logoColor=white" /></a>
   <a href="mailto:m.usmansid786@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-d14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
@@ -102,5 +103,6 @@ If you're building something serious — infrastructure, backend systems, or AI�
 <!-- Last update: 2025-12-17 -->
 <!-- Last update: 2025-12-17 -->
 <!-- Last update: 2025-12-18 -->
+<!-- Last update: 2025-12-29 -->
 <!-- Last update: 2025-12-29 -->
 <!-- Last update: 2025-12-29 -->
