@@ -31,23 +31,6 @@ I’m **Usman**, a **Full-Stack, DevOps & AI Engineer** helping businesses **des
 
 ---
 
-## 🏢 Experience
-
-* **Ex‑JP Morgan Chase** – Enterprise-scale systems, security, and reliability under real constraints
-* **Ex‑Twitter** – High‑traffic distributed systems and performance‑critical services
-* **Internships**:
-
-  * **Amazon** – Large‑scale backend services and cloud infrastructure
-  * **Datadog** – Observability, metrics, and performance tooling
-
----
-
-## 🎓 Education
-
-* **University of Texas at Austin** — Graduate 
-
----
-
 ## 🧠 Our AI Technology Stack  
 
 **Programming & Development**  
@@ -71,12 +54,32 @@ I’m **Usman**, a **Full-Stack, DevOps & AI Engineer** helping businesses **des
 
 ---
 
+## 🏢 Experience
+
+* 🏦 **Ex-JP Morgan Chase**  
+  Enterprise-scale systems, security, and reliability under real-world constraints
+
+* 🐦 **Ex-Twitter (X)**  
+  High-traffic distributed systems and performance-critical services at internet scale
+
+* 🎓 **Internships**
+  * ☁️ **Amazon (AWS)** — Large-scale backend services and cloud infrastructure
+  * 📊 **Datadog** — Observability, metrics, and performance tooling
+
+---
+
+## 🎓 Education
+
+* 🏛️ **University of Texas at Austin** — Computer Science · Graduate · **GPA: 3.7**
+
+---
+
 ## 🧩 What You Can Expect From Me
 
-* Clean, maintainable code
-* Systems that scale **without drama**
-* Strong opinions, backed by experience
-* Clear communication and ownership
+- Clean, maintainable, production-grade code  
+- Systems that scale **without drama**  
+- Strong technical opinions, backed by real-world experience  
+- Clear communication, fast feedback, and full ownership of delivery  
 
 ---
 
@@ -103,6 +106,7 @@ If you're building something serious — infrastructure, backend systems, or AI�
 <!-- Last update: 2025-12-17 -->
 <!-- Last update: 2025-12-17 -->
 <!-- Last update: 2025-12-18 -->
+<!-- Last update: 2025-12-29 -->
 <!-- Last update: 2025-12-29 -->
 <!-- Last update: 2025-12-29 -->
 <!-- Last update: 2025-12-29 -->
