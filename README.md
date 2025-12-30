@@ -1,6 +1,21 @@
-# 👋 Hi, I'm Usman, A Senior Full‑Stack Developer
+<h1 align="center">👋 Hi, I'm Usman</h1>
+<h3 align="center">| Full Stack, AI-Powered SaaS Solutions for Businesses</h3>
 
-I build **production-grade systems**, not toy projects. My focus is on **scalable backend architectures, cloud infrastructure, and AI‑driven automation**.
+<p align="center">
+  <a href="https://www.upwork.com/freelancers/~01547b9537b84bf3dd?viewMode=1"><img src="https://img.shields.io/badge/🌐 Visit-My-Upwork-2b9348?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+  <a href="mailto:m.usmansid786@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-d14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+
+---
+
+## 🚀 About Me  
+I’m **Usman**, a **Full-Stack, DevOps & AI Engineer** helping businesses **design, build, deploy, and scale production-ready systems** end to end.
+
+- 🧠 Building **AI-powered applications** using **LLMs, agentic workflows, and automation pipelines**  
+- 🧩 Full-stack development across **frontend, backend, APIs, and third-party integrations**  
+- ⚙️ DevOps expertise in **cloud infrastructure, CI/CD, Docker, Kubernetes, monitoring, and scaling**  
+- 🚀 Shipping **reliable, secure, and scalable software** — not fragile prototypes  
+- 📉 Helping teams **cut costs, automate operations, and move faster with lean teams**
 
 ---
 
@@ -81,12 +96,11 @@ If you're building something serious — infrastructure, backend systems, or AI�
 
 <p align="center">⚡ Transforming Businesses with AI — One Solution at a Time ⚡</p>
 
-> *I optimize for correctness, scale, and long‑term sanity — not buzzwords.*
-
 <!-- Last update: 2025-12-17 -->
 <!-- Last update: 2025-12-17 -->
 <!-- Last update: 2025-12-17 -->
 <!-- Last update: 2025-12-17 -->
 <!-- Last update: 2025-12-17 -->
 <!-- Last update: 2025-12-18 -->
+<!-- Last update: 2025-12-29 -->
 <!-- Last update: 2025-12-29 -->
